@@ -1,2 +1,4 @@
 # Scam-and-Fake-News-Scanner
-To address the problem of scams and fake news circulating on social media and online platforms, you can create an application that analyzes content, identifies potential scams or misinformation, and alerts users. Here's an outline of how you could approach building such an application:
+Create a Simple Web Interface
+This will be a basic prototype that can be expanded later
+![image](https://github.com/user-attachments/assets/fbd69cb9-0e5c-4f1e-a082-8c4266807970)
